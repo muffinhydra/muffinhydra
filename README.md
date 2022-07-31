@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> Hi, I'm Andrzej Kaufman  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="50"></h2>
 
-<!--
-**muffinhydra/muffinhydra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some info about me: 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const andy = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, Java, MySql],
+  tools: [Vue, Node, VScode],
+  current: {
+              occupation: "Student",
+              subject: "media informatics",
+              semester: 4,
+              college: "TH Luebeck",
+            },      
+  challenge: "getting a internship",
+  sideProject: "Google Data Analytics Professional Certificate", 
+  intrests: ['web development','data science'],
+}
+```
