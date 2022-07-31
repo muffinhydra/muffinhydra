@@ -1,4 +1,4 @@
-<h2> Hi, I'm Andrzej Kaufman  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="150"></h2>
+<h2> <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="200"> , I'm Andrzej Kaufman  </h2>
 
 ### Some info about me: 
 
