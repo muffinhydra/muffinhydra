@@ -10,10 +10,10 @@ const andy = {
   current: {
               occupation: "Student",
               subject: "media informatics",
-              semester: 4,
+              semester: 5,
               college: "TH Luebeck",
             },      
-  challenge: "getting a internship",
+  challenge: "survive",
   sideProject: "Google Data Analytics Professional Certificate", 
   intrests: ['web development','data science'],
 }
