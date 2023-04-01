@@ -5,12 +5,12 @@
 ```javascript
 const andy = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Java, MySql],
-  tools: [Vue, Node, VScode, MongoDB],
+  code: [Typescript, Python, SQL],
+  tools: [Nuxt3, Pandas],
   current: {
               occupation: "Student",
               subject: "media informatics",
-              semester: 5,
+              semester: 6,
               college: "TH Luebeck",
             },      
   challenge: "survive",
