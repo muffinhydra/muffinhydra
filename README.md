@@ -1,4 +1,4 @@
-<h1 align="center">I'm Andrzej</h1>
+<h1 align="center">Hi 👋, I'm Andrzej</h1>
 - 🔭 I’m currently working on **my bachlor thesis.**
 - 🌱 I’m currently learning **Data Engineering and Python REST APIs**
 
