@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrzej</h1>
-<p>- 🔭 I’m currently working on <b>my bachlor thesis.</b></p>
+<p>- 🔭 I’m DONE with my <b>my bachlor thesis.</b></p>
 <p>- 🌱 I’m currently learning <b>Data Engineering and Python REST APIs</b></p>
 
 <h3 align="left">Languages and Tools:</h3>
